@@ -1,0 +1,9 @@
+step 1:  Gathered information about features of chatbox what to be menationed
+
+step 2:  Cretaed a chatbox app using Visual Studio Code, Node JS, Express JS, Socket.io
+        MongoDB,  GitHub
+
+step 3:  Executed and took snaps 
+step 4:  commited to github via git 
+
+github link :  https://github.com/keerthi4600/phase3-project
